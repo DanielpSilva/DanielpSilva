@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-contato@danielpsilva.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@danielpsilva.com.br)](mailto:contato@danielpsilva.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-danielpsilva-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dsilva014/)](https://www.instagram.com/dsilva014/)
 
-### Seja bem vindo ao meu repositório! 👋 Este repositório está em desenvolvimento, com a intenção de ter todos os meu projetos demonstrar atraves dessa plataforma meus feitos como desenvolvedor Full-Stack.
+### Seja bem vindo ao meu repositório! 👋 Este repositório está em desenvolvimento, com a intenção de ter todos os meu projetos demonstrar através dessa plataforma meus feitos como desenvolvedor Full-Stack.
 
 <details>
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
