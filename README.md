@@ -9,7 +9,7 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
 ### 📖 Sobre mim
-Sou apaixonado pela tecnologia desde pequeno, sempre curioso e com vontade de apresenter e me aprofundar no mundo da tecnologia.
+Sou apaixonado pela tecnologia desde pequeno, sempre curioso e com vontade de aprender e me aprofundar no mundo da tecnologia.
 
 Em 2018 ingressei na faculdade de Análise e Desenvolvimento de Sistemas, onde fiquei maravilhado pela programação, análise de sistemas, banco de dados e gestão de projetos, nesse tempo cursando ADS consegui o máximo de conhecimento que pude, hoje formado estou a procura de novos desafios, no momento cursando a pós graduação de Ciência de Dados e buscando adquirir o máximo de conhecimento possivel.
 
