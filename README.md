@@ -1,7 +1,7 @@
 # :man_technologist: Daniel Silva
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielpsilva14/)](https://www.linkedin.com/in/danielpsilva14/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@danielpsilva.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@danielpsilva.com.br)](mailto:contato@danielpsilva.com.br)
-[![Instagram Badge](https://img.shields.io/badge/-Daniel Silva-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dsilva014/)](https://www.instagram.com/danielpsilvadev/)
+[![Instagram Badge](https://img.shields.io/badge/-DanielSilva-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dsilva014/)](https://www.instagram.com/danielpsilvadev/)
 
 ### Seja bem vindo ao meu repositório! 👋 por enquanto em desenvolvimento, com a intenção de ter todos os meus projetos demonstrar através desse repositório meus feitos como desenvolvedor Full-Stack.
 
