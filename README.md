@@ -13,9 +13,9 @@ Sou apaixonado pela tecnologia desde pequeno, sempre curioso e com vontade de ap
 
 Em 2018 ingressei na faculdade de Análise e Desenvolvimento de Sistemas, onde fiquei maravilhado pela programação, análise de sistemas, banco de dados e gestão de projetos, nesse tempo cursando ADS consegui o máximo de conhecimento que pude, hoje formado estou a procura de novos desafios, no momento cursando a pós graduação de Ciência de Dados e buscando adquirir o máximo de conhecimento possivel.
 
-No momento estou desenvolvendo projetos pessoais e profissionais para o aperfeiçoamento na programação, me viro bem tanto no front-end quando do back-end, mesmo tendo uma paixão pelo back-end.
+No momento estou me especializando em ciência de dados e big data, também desenvolvendo projetos pessoais e profissionais para o aperfeiçoamento na programação, me viro bem tanto no front-end quando do back-end, mesmo tendo uma paixão per Banco de Dados, tanto relacionais quanto não relacionais.
 
-Com objetivos grandiosos dei inicio a fundação de uma Startup, por enquanto em carreira solo, a DS Desenvolvimento de Softwares está em fase de criação, com seu foco em inovação, compromisso e expansão.
+Com objetivos grandiosos dei inicio a fundação de uma Startup, por enquanto em carreira solo, criei a Kronus Tecnologia, com seu foco em inovação, compromisso e expansão.
 </details>
 
 ### 💼 Trabalho com
